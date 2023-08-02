@@ -8,7 +8,7 @@
 |  $$$$$$/| $$  | $$|  $$$$$$$  |  $$$$/|  $$$$$$/| $$      |  $$$$$$/
  \______/ |__/  |__/ \_______/   \___/   \______/ |__/       \______/ 
  ```
-# ChatGPC: A ChatGPT in C proof of concept
+# ChatGPC: A ChatGPT use through API proof of concept in C
 Created mostly to prove knowledge of Curl
 
 ## Running Tests:
