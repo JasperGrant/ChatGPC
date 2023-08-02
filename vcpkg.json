@@ -1,0 +1,10 @@
+{
+  "name" : "chatgpc",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "fa9d1fab3cc12be2df5e6d8fe5fe12fd873615c1",
+  "dependencies" : [ {
+    "name" : "curl",
+    "version>=" : "8.2.0",
+    "$comment" : "    # this is heuristically generated, and may not be correct\n\n    find_package(CURL CONFIG REQUIRED)\n\n    target_link_libraries(main PRIVATE CURL::libcurl)\n"
+  } ]
+}
