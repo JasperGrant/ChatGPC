@@ -11,7 +11,7 @@
 # ChatGPC: A ChatGPT in C proof of concept
 Created mostly to prove knowledge of Curl
 
-## Using Library:
+## Running Tests:
 1. Insert your API key into the line of ChatGPC.h marked "YOUR API KEY HERE" (Keep the "")
 2. Specify your output file with the OUTPUT_FILE macro (Keep the "")
 3. Run tests to see ChatGPC tell you something cool in your output file!
